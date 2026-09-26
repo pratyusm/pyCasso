@@ -1,3 +1,19 @@
-.idea
+# Python
+__pycache__/
+*.py[cod]
 
+# Virtual environments
+.venv/
+venv/
+.test-venv/
+
+# Packaging
+build/
+dist/
+*.egg-info/
+
+# IDE
+.idea/
+
+# macOS
 .DS_Store
