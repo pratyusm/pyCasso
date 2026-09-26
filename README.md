@@ -842,12 +842,15 @@ in a modern terminal emulator.
 Current version:
 
 ```text
-1.0.4
+1.0.5
 ```
 
 
 # License
 
-pyCasso is free software licensed under the **GNU Affero General Public License v3.0 or later (AGPL-3.0-or-later)**.
+Copyright © 2026 Pratyus Mohapatra.
 
-See `LICENSE` for the full license terms.
+pyCasso is free software licensed under the **GNU Affero General Public
+License v3.0 or later (AGPL-3.0-or-later)**.
+
+See [LICENSE](LICENSE) for the complete license terms.
